@@ -22,3 +22,9 @@ Também escrevo no meu [LinkedIn](https://www.linkedin.com/in/mrbrunelli/) sobre
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrunelli&show_icons=true&theme=yeblu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrunelli&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
