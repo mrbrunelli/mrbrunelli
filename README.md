@@ -1,12 +1,13 @@
-## Eai, blz? Meu nome é Matheus, seja muito bem vindo!
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mrbrunelli)](https://mrbrunelli.github.io/my-portfolio/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrbrunelli/)](https://www.linkedin.com/in/mrbrunelli/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrbrunelli_)](https://twitter.com/mrbrunelli_)
+## Olá! Sou o Matheus, seja muito bem vindo!
 
 ### Sobre mim
-Sou Programador com experiência em Desenvolvimento Web, com foco na Stack JavaScript. Gosto muito de trabalhar com ${**Back-End e Front-End**}. Nas horas vagas também me aventuro no Desenvolvimento ${**Mobile**}, e acho muito divertido essa navegação pelas tecnologias.
-Também escrevo no meu [LinkedIn](https://www.linkedin.com/in/mrbrunelli/) sobre Tecnologia, Programação, Dicas de Livros e Snippets de Código.
+Sou desenvolvedor de Software com mais de 4 anos de experiência em desenvolvimento web. Utilizo Node.js, Serverless e ferramentas AWS para criar soluções de Integração para ERPs e Marketplaces. 
+
+Atualmente estou estudando TDD e arquitetura de software. Acredito fortemente que essa dupla tem o poder de transformar código em soluções confiáveis e escaláveis, dar poder para o dev e de quebra deixar o trabalho muito mais prazeroso!
+
+Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, o que aprendo consigo aplicar para qualquer linguagem ou ferramenta.
+
+Ah, no meu tempo livre gosto de postar conteúdo sobre tecnologia, programação e dicas de livros em meu [LinkedIn](https://www.linkedin.com/in/mrbrunelli/), dá uma passada lá!
 
 #### Linguagens e Ferramentas  
 
@@ -16,15 +17,24 @@ Também escrevo no meu [LinkedIn](https://www.linkedin.com/in/mrbrunelli/) sobre
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
+#### Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrunelli&show_icons=true&theme=yeblu)
 
+#### Mais utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrunelli&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
+
+## Minhas redes sociais
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrbrunelli/)](https://www.linkedin.com/in/mrbrunelli/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrbrunelli_)](https://twitter.com/mrbrunelli_)
 
 
 
