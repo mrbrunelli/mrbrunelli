@@ -7,7 +7,7 @@ Atualmente estou estudando TDD e arquitetura de software. Acredito fortemente qu
 
 Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, o que aprendo consigo aplicar para qualquer linguagem ou ferramenta.
 
-Ah, no meu tempo livre gosto de postar conteúdo sobre tecnologia, programação e dicas de livros em meu [LinkedIn](https://www.linkedin.com/in/mrbrunelli/), dá uma passada lá!
+Ah, no meu tempo livre gosto de postar conteúdo sobre tecnologia, programação e dicas de livros em meu [Blog](https://mrbrunelli.github.io/blog/), dá uma passada lá!
 
 #### Linguagens e Ferramentas  
 
