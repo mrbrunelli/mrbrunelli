@@ -1,11 +1,11 @@
 ## Olá! Sou o Matheus, seja muito bem vindo!
 
 ### Sobre mim
-Sou desenvolvedor de Software com mais de 4 anos de experiência em desenvolvimento web. Utilizo Node.js, Serverless e ferramentas AWS para criar soluções de Integração para ERPs e Marketplaces. 
+Sou desenvolvedor de Software com 4 anos de experiência em desenvolvimento web. Tenho foco em Node.js, NoSQL, Mensageria, Serverless e ferramentas AWS.
 
-Atualmente estou estudando TDD e arquitetura de software. Acredito fortemente que essa dupla tem o poder de transformar código em soluções confiáveis e escaláveis, dar poder para o dev e de quebra deixar o trabalho muito mais prazeroso!
+Atualmente estou estudando TDD e Clean Architecture. Acredito fortemente que essa dupla tem o poder de transformar código em soluções confiáveis e escaláveis, dar poder para o dev, economizar tempo e recursos humanos e de quebra deixar o trabalho muito mais prazeroso!
 
-Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, o que aprendo consigo aplicar para qualquer linguagem ou ferramenta.
+Para mim, a Stack dos sonhos deve conter Typescript ou Javascript, entretanto, o que aprendo consigo aplicar para qualquer linguagem ou ferramenta. Gosto muito de criar abstrações e deixar o código o mais entendível possível, e o SOLID me ajuda muito nisso. Também gosto de programação funcional, e estou sempre aprendendo algo novo nesse paradigma.
 
 Ah, no meu tempo livre gosto de postar conteúdo sobre tecnologia, programação e dicas de livros em meu [Blog](https://mrbrunelli.github.io/blog/), dá uma passada lá!
 
