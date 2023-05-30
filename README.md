@@ -28,7 +28,7 @@ Ah, no meu tempo livre gosto de postar conteúdo sobre tecnologia, programação
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrunelli&show_icons=true&theme=yeblu)
 
 #### Mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrunelli&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrunelli&layout=compact&hide=TSQL,HTML,CSS,PHP,Hack)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas redes sociais
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrbrunelli/)](https://www.linkedin.com/in/mrbrunelli/)
