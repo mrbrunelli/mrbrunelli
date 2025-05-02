@@ -1,32 +1,33 @@
-## Olá! Sou o Matheus, seja muito bem vindo!
+## Olá! Sou o Matheus, seja muito bem-vindo!
 
 ### Sobre mim
-Sou desenvolvedor de Software com 5 anos de experiência em desenvolvimento web, com foco em soluções de microsserviços, utilizando Nest.js, MongoDB e ferramentas cloud (AWS, Azure). Também comecei a atuar recentemente com Spring Boot e Kotlin, e tenho me aprofundado nessa stack para criações de microsserviços confiáveis e robustos.
 
-Atualmente estou estudando Clean Architecture e em como essa arquitetura impacta no desenvolvimento de softwares reais. À médio prazo, código desacoplado, testável, manutenível e seguro são mais baratos do que rápidas implementações go horse, e por isso quem me conhece sabe que dou muita ênfase neste tópico.
+Sou desenvolvedor de software com **6 anos de experiência** em desenvolvimento web, especializado em soluções baseadas em **microsserviços**. Atuei com tecnologias como **NestJS**, **MongoDB** e **ferramentas cloud (AWS e Azure)**. Mais recentemente, venho me aprofundando em **Spring Boot com Kotlin e Java**, stack pela qual sou apaixonado e que utilizo para construir microsserviços confiáveis, escaláveis e robustos.
 
-Ah, no meu tempo livre gosto de postar conteúdo sobre tecnologia, programação e dicas de livros em meu [Blog](https://mrbrunelli.github.io/blog/), dá uma passada lá!
+Valorizo **código limpo, desacoplado e bem testado** — com foco sempre na entrega de valor real e sustentável para o negócio. Evito arquiteturas desnecessariamente complexas e busco sempre equilibrar **boas práticas com pragmatismo técnico**.
+
+Nas horas vagas, compartilho conteúdos sobre **tecnologia, programação e recomendações de livros** no meu [Blog](https://mrbrunelli.github.io/blog/) — passa lá pra trocar uma ideia!
 
 #### Linguagens
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg"></code>
 
 #### Ferramentas
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 #### Banco de dados e mensageria
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg"></code>
 
 #### Estatísticas
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbrunelli&show_icons=true&theme=yeblu)
